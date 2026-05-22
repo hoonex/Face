@@ -3,3 +3,5 @@ opencv-python-headless
 mediapipe
 numpy
 Pillow
+libgl1-mesa-glx
+libglib2.0-0
